@@ -6,5 +6,8 @@
 	"repository": "git://github.com/exine/feed-combiner.git",
 	"bin": {
 		"feed-combiner": "./bin/feed-combiner"
+	},
+	"dependencies": {
+		"feedparser": "0.19.2"
 	}
 }
