@@ -1,0 +1,10 @@
+{
+	"name": "feed-combiner",
+	"version": "0.0.1",
+	"description": "",
+	"license": "MIT",
+	"repository": "git://github.com/exine/feed-combiner.git",
+	"bin": {
+		"feed-combiner": "./bin/feed-combiner"
+	}
+}
