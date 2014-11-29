@@ -1,5 +1,6 @@
 #!/usr/bin/env node
 
-var feedcombiner = require('../lib/feedcombiner');
+var feedcombiner = require('../lib/feed-combiner');
+var fc = new feedcombiner();
 
-feedcombiner.cli();
+fc.cli();
